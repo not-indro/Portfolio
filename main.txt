@@ -1,0 +1,126 @@
+/* Header
+--------------------------------------------------
+
+Developer
+
+Home
+About
+Qualification
+Services
+Projects
+Contact
+
+/* Hero
+--------------------------------------------------
+
+Hi, I am Indranil,<br> Data Analyst &<br> UI/UX Designer
+
+03
+Years<br>Experience
+
+20+
+Projects<br>Completed
+
+/* About
+--------------------------------------------------
+
+About Me
+Who am I
+I am an ambitious fresher specializing in software development and UI/UX design. 
+With a robust academic foundation in software engineering, I possess expertise in Python, HTML, CSS, and JavaScript, SQL, and agile development methodologies. 
+I meticulously craft visually captivating and intuitive interfaces, leveraging my keen eye for aesthetics. 
+Committed to continuous learning and collaboration in dynamic environments, I eagerly contribute my skills for impactful outcomes.
+
+Know More
+
+Technologies I've been working with:
+
+Backend
+
+Python
+Node.js
+MySQL
+
+Frontend
+HTML
+CSS/Sass
+JavaScript
+Figma
+
+/* Qualification
+--------------------------------------------------
+
+Qualification
+Experience & Education
+
+
+- Professional Experience
+
+Research Intern - IIT Kharagpur || Frontend Developer & UI/UX Designer  
+
+My work is to develop the frontend part and design the UI for the website and app UI for the
+research project. Also did the user research for the UI. My research subject was Federated learning.
+I also worked on a app called ’Skin Curate’ which is used to detect the skin disease.
+
+2022 July - 2022 October
+
+ Intern - Naulets App || UI/UX Designer
+
+ I was responsible to make the app and the website user interfaces and prototypes. I used Figma as
+my primary software in the project. I have made the frontend with ’Flutter’.
+
+2021 September - 2021 November
+
+ - Education
+
+ Indian Institute Of Engineering Science And Technology, Shibppur
+ 2020 | Present
+ • B.Tech in Computer Science & Technology. GPA: 7.94/10
+
+See my full resume
+Resume
+
+/* My expertise
+--------------------------------------------------
+What I do
+
+Frontend<br>Development || Data<br>Analysis || UI/UX<br> Design
+
+Know More
+
+
+/* Projects
+--------------------------------------------------
+
+Projects
+My recent work
+
+
+Agency Website || Crypto Application || Ecommerce Website
+
+Lorem ipsum dolor sit amet consectetur 
+adipisicing elit. Facere,esse ullam 
+nemo velit voluptatum excepturi.
+
+View Project
+
+
+/* Contact 
+--------------------------------------------------
+
+Interested in working together? Let's talk
+
+I appreciate your interest in collaborating! I am highly enthusiastic about working together to achieve our shared goals. With my expertise in software development and UI/UX design, I am confident in making a valuable contribution to our partnership. Let's leverage our skills and collaborate to create innovative and successful projects. I look forward to discussing the details and exploring potential opportunities with you.
+
+Get in touch
+
+/* Footer
+--------------------------------------------------
+Follow Me
+- Linkedin
+- Instagram
+- Thread
+- Github
+
+Email Me
+indranilbain14@gmail.com
