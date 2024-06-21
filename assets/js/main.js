@@ -91,8 +91,7 @@ sr.reveal(
 );
 
 sr.reveal(".qualification__footer-text, .contact__content", {
-  origin: "left",
-});
+  origin: "left",});
 
 sr.reveal(".qualification__footer .btn, .contact__btn", { origin: "right" });
 
